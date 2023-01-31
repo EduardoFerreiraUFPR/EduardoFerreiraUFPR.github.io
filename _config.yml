@@ -1,9 +1,9 @@
 # Site settings
-title: Thomas Zühlke
+title: Eduardo Vargas Ferreira
 description: 'Business Card Page'
 url: 'http://thomas.zuehlke.family'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/profile3.png'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
